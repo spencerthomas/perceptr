@@ -1,0 +1,194 @@
+
+body, h1, h2, h3, p {
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1, h2, h3 {
+	line-height: 50px;
+	margin-bottom: 36px;
+}
+
+h2 {
+
+	font-weight: lighter;
+}
+
+h5 {
+	line-height: 1.7;
+}
+
+p {
+	line-height: 30px;
+
+}
+
+footer {
+	margin-bottom: 100px;
+}
+
+#block-1-1 {
+ margin-top: 180px;
+ margin-bottom: 80px;
+}
+
+#block-1-2 {
+ margin-top: 60px;
+ margin-bottom: 120px;
+}
+
+#block-1-3 {
+ margin-top: 100px;
+ margin-bottom: 220px;
+}
+
+#block-1-4 {
+ margin-top: 120px;
+ margin-bottom: 20px;
+}
+
+#block-1-5 {
+ margin-top: 40px;
+ margin-bottom: 180px;
+}
+
+#block-1-5 h5 {
+	line-height: 35px;
+	margin-bottom: 35px;
+}
+
+#block-1-6 {
+  margin-top: 40px;
+ }
+
+ #block-1-7 {
+  margin-top: 40px;
+  margin-bottom: 140px;
+ }
+
+.jumbotron {
+		height: 700px;
+	  color: white;
+	  margin-bottom: -15px;
+}
+
+.jumbtron h5 {
+		line-height: 30px;
+		margin-top: 15px;
+		margin-bottom: 15px;
+}
+
+.jumbo-top {
+		background-image: url(background.png); 
+		margin-top: -80px;
+	  background-size: cover;
+	  background-position: center;
+}
+
+.jumbo-platform {
+		background-image: url(platformheader.png); 
+		margin-top: -80px;
+	  background-size: cover;
+	  background-position: center;
+}
+
+.jumbo-services {
+		background-image: url(services.png); 
+		margin-top: -80px;
+	  background-size: cover;
+	  background-position: center;
+}
+
+.jumbo-pricing {
+		background-image: url(pricing.png); 
+		margin-top: -80px;
+	  background-size: cover;
+	  background-position: center;
+}
+
+.jumbo-footer {
+		height: 700px;
+		background: no-repeat center center;
+		background-image: url(footer.png); 
+	  background-size: cover;
+	  background-position: center;
+	  color: white;
+}
+
+.jumbo-footer h1 {
+	color: #50E3C2;
+}
+
+.header-content {
+	margin-top: 200px;
+	background-color: transparent;
+}
+
+.btn {
+	font-family: montserrat;
+}
+
+.btn-primary {
+	color: #000000;
+	background-color: #50E3C2;
+	border: none;
+}
+
+
+.content-block{
+	height: 500px;
+}
+
+.nav-item {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.navbar {
+	height: 80px;
+}
+
+
+.feature-cta {
+	margin: 30px;
+}
+
+.services-col {
+	text-align: center;
+}
+
+i {
+	margin-bottom: 25px;
+}
+
+.nav-link:hover {
+	color: #50E3C2;
+}
+
+.pricing-col {
+		background-color: #D8D8D8;
+		min-height: 474px;
+		padding: 25px;
+		margin: 10px;
+		border-radius: 5px;
+	}
+
+.pricing-row {
+			margin-bottom: 180px;
+}
+
+
+
+.cta_image {
+	width: auto;
+	height: 50px;
+}
+
+.navbar_logo {
+	width: auto;
+	height: 40px;
+}
+
+.footer_logo {
+	width: auto;
+	height: 20px;
+}

@@ -1,0 +1,27 @@
+  <nav class="navbar navbar-toggleable-md navbar-inverse bg-transparent">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="http://www.perceptr.io"><%= image_tag "perceptrsm.png", class: "navbar_logo" %> </a>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item active">
+          <%= link_to "Platform", pages_platform_path, class: "nav-link" %>
+        </li>
+
+        <li class="nav-item active">
+          <%= link_to "Services", pages_services_path, class: "nav-link" %>
+        </li>
+
+        <li class="nav-item active">
+          <%= link_to "Pricing", pages_pricing_path, class: "nav-link" %>
+        </li>
+
+
+      </ul>
+      <ul class="form-inline my-2 my-lg-0">
+        <button class="btn btn-primary btn-md my-2 my-sm-0" type="submit">Signup</button>
+      </ul>
+    </div>
+  </nav>
